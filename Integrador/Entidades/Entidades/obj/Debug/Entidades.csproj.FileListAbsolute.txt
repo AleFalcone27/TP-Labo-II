@@ -10,3 +10,9 @@ C:\Users\aleef\OneDrive\Escritorio\Progra-II\Integrador\Entidades\Entidades\obj\
 C:\Users\aleef\OneDrive\Escritorio\Progra-II\Integrador\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\aleef\OneDrive\Escritorio\Progra-II\Integrador\Entidades\Entidades\obj\Debug\Entidades.dll
 C:\Users\aleef\OneDrive\Escritorio\Progra-II\Integrador\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\aleef\OneDrive\Escritorio\TP-Labo-II\Integrador\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\aleef\OneDrive\Escritorio\TP-Labo-II\Integrador\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\aleef\OneDrive\Escritorio\TP-Labo-II\Integrador\Entidades\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\aleef\OneDrive\Escritorio\TP-Labo-II\Integrador\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\aleef\OneDrive\Escritorio\TP-Labo-II\Integrador\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\aleef\OneDrive\Escritorio\TP-Labo-II\Integrador\Entidades\Entidades\obj\Debug\Entidades.pdb
