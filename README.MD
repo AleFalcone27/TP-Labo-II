@@ -5,7 +5,7 @@ Me tomo bastante tiempo hacerlo, pero al final creo que quedo bastante prolijo y
 ---
 
 ### PREVIEW 👀
-![Calculadora](previwe.png)
+![Calculadora](preview.png)
 
 ---
 >Espero les guste❗️
