@@ -25,7 +25,7 @@ namespace Ejercicio_Integrador
         private void FrmCalculadora_Load(object sender, EventArgs e)
         {
             this.rdbDecimal.Checked = true;
-            this.operacion.DataSource = new object[] { "", "+", "-", "/", "*" };
+            this.operacion.DataSource = new object[] {"", "+", "-", "/", "*"};
         }
 
         /// <summary>
